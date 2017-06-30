@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+		text-align:center;
+		margin-bottom: 50px;
+}
+header h1 {
+    font-size: 50px;
+    font-weight: 100;
+		margin-bottom: 0;
+}
+
+header p {
+    font-weight: 100;
+    font-size: 20px;
+		margin: 10px 0;
+}
+
+.bold {
+		font-weight: bold;
+}
+.content-wrap {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.titleHeader {
+    font-weight: 100;
+    font-size: 20px
+}
+
+.education p, .skills p, .professional p, .additional p {
+    font-weight: 100;
+}
+
+.bullets {
+    font-weight: 100;
+}
+/* old styles 
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+h2 {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+
+h4, ul {
+    font-weight: 100;
+}
+
+h3 {
+    font-weight: 100;
+    font-size: 20px;
+}
+*/
